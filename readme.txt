@@ -1,4 +1,5 @@
-The given code is a Python program that uses the tkinter library to create a GUI application for generating question papers. It also interacts with a MySQL database to store and retrieve information about the question papers.
+The code is a Python program that uses the tkinter library to create a GUI application for generating question papers. It also interacts with a MySQL database to store and retrieve information about the question papers.
+The question paper follows a pattern of all subjective questions divided into three sections.
 
 The program consists of several classes and functions:
 
